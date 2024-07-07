@@ -33,21 +33,24 @@ Building a user interface with Streamlit.
 Creating quizzes based on user-specified topics.
 Supplying explanations for quiz answers.
 Handling errors and performing validation.
+
 Implementation Flow
 
-Task 9 Overview
 
 Work Flow
 Research paper Input
 
 
-Generate Quiz Algorithm Input
 
 Generated Questions
 
 
-Screen State Handling
+
 
 Issues Faced
 Question Quality
 The current iteration of Gemini-pro predominantly produces JSON markdown results, which occasionally leads to suboptimal question generation. As a remedy, a straightforward prompt engineering methodology has been experimented with and found effective. It has been observed that implementing this prompt engineering approach can significantly enhance the success rate to approximately 80%.
+
+Research Paper
+https://onlinelibrary.wiley.com/doi/full/10.1155/2024/8729440
+https://onlinelibrary.wiley.com/journal/4795?gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP4z-QRgjbueEfZQR0dwczCj3tQed7knSMIilVyiYGFbJqma-BYe_KcaAnnREALw_wcB&utm_campaign=544738&utm_content=CompSciInfoTech-ACIS&utm_medium=paidsearch&utm_source=google
